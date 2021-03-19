@@ -79,7 +79,14 @@ Splash screen akan muncul di layar pembukan setiap pennguna jika ingin mengopera
 
 ![WhatsApp Image 2021-03-19 at 20 30 59 (4)](https://user-images.githubusercontent.com/60412314/111791260-a1550200-88f5-11eb-9355-c41cb5645cba.jpeg)
 
-3. Fragment Awal Aplikasi
+4. Halaman utama dengan Intent
+Terdapat tampilan halamn utama, didalamnnya ada 2 button. 
+- Button pertama digunakan untuk perpindahan halaman utama menuju halaman fragment.
+- Button kedua digunkan untuk perpindahan halaman utama menuju halaman detail data diri seseorang.
+(perpindahan tersebut menggunkaan Intent).
+![Screenshot_20210320_002121](https://user-images.githubusercontent.com/60412314/111821007-c016c100-8914-11eb-9c04-f1682db06dde.jpg)
+
+3. Button pertama menuju = Fragment Awal Aplikasi
 - Fragment Pertama : Menampilkan from identitas yang bisa diisi oleh user
 
 ![WhatsApp Image 2021-03-19 at 20 30 59 (9)](https://user-images.githubusercontent.com/60412314/111792181-96e73800-88f6-11eb-81e4-14fea112a64b.jpeg)
@@ -99,6 +106,9 @@ Splash screen akan muncul di layar pembukan setiap pennguna jika ingin mengopera
  
  (Data dari from di fragment pertama(tab1) yang telah diisi akan dibawa ke fragment kedua(tab2)).
  
+ 5. Button kedua menuju = detail data diri seseorang
+ 6. 
+ ![Screenshot_20210320_002959](https://user-images.githubusercontent.com/60412314/111820998-bdb46700-8914-11eb-8917-184bcd803aa9.jpg)
  
  # Terimakasih :)
  
