@@ -109,7 +109,7 @@ Terdapat tampilan halamn utama, didalamnnya ada 2 button.
  
  (Data dari from di fragment pertama(tab1) yang telah diisi akan dibawa ke fragment kedua(tab2)).
  
- 5. Button kedua menuju = detail data diri seseorang
+ 6. Button kedua menuju = detail data diri seseorang
  
 ![WhatsApp Image 2021-03-20 at 00 30 10](https://user-images.githubusercontent.com/60412314/111824814-3e756200-8919-11eb-916e-25465e9907b6.jpeg)
 
